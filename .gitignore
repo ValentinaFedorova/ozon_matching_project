@@ -1,0 +1,8 @@
+.idea
+*.DS_Store
+data/
+__pycache__/
+catboost_info/
+venv
+.vscode
+tmp
